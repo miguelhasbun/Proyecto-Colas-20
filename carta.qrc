@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>carta.png</file>
+    </qresource>
+</RCC>
